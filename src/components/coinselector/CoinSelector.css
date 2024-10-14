@@ -1,0 +1,16 @@
+/* Dropdown selector for choosing the cryptocurrency */
+.coin-selector {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+    transition: border-color 0.3s;
+  }
+  
+  .coin-selector:hover {
+    border-color: #007bff; /* Blue border on hover */
+  }
+  

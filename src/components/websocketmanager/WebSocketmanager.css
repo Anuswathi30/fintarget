@@ -1,0 +1,7 @@
+/* Container to manage the WebSocket content and chart */
+.websocket-manager {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
